@@ -1,0 +1,27 @@
+Some necessary elements for finishing the site
+
+1- Home page
+
+	- Descriptive texts that are located at the bottom of the titles Art, Events, Tattoos and About Me.
+	- The texts of About me which can be found at the bottom of the home page conf. https://www.wedesignthemes.com/html/redart/default/ for more visual about this sector
+	- The big showcase image that is at the reception
+	- Your portfolio image to replace the one at the about us block at the bottom of the page
+
+2- About us/me page
+	As you can see on this page, https://www.wedesignthemes.com/html/redart/default/about.html, we need all of those thig such a:
+		- The slogan which is the text just at the bottom of the title "About us"
+		- The main text of presentation of yoursef
+		- The prvate informaton like the one on the page of course we can remove the informaton you xhich you don't want
+		- Social medai lins like facebook, twitter, and so on
+		- Your portfolio image to replace the existing one
+		- The images at the bacground just at the left of the main image
+
+3- Contact us
+	As you can see on this page, https://www.wedesignthemes.com/html/redart/default/contact.html, we need all of those thig such a:
+		- The slogan which is the text just at the bottom of the title "Contact"
+		- Your address If you want of course else we will remove the block
+		- The mail which will send the contact message
+
+4- Others
+	We also need if it is not already the case:
+		- The set of your arts and tattoos in order to initialize the site with them

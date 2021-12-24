@@ -1,0 +1,86 @@
+.slider { background-image:url(../images/new/slider.jpg);}
+
+.pl-0 { padding-left: 0px !important; }
+
+/* @media only screen and (max-width: 767px){ */
+    .woocommerce table.cart img, .woocommerce-page table.cart img, .woocommerce #content table.cart img, .woocommerce-page #content table.cart img {
+        width: 50px !important;
+    }
+/* } */
+/*
+[data-notify="progressbar"] {
+    margin-bottom: 0;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 5px;
+}
+[data-notify="container"].alert-success {
+    color: #70B64C;
+    background-color: rgba(235, 235, 235, 0.9);
+    border: 2px solid #70B64C;
+}
+[data-notify="container"].alert-info {
+    color: #0082ca;
+    background-color: rgba(235, 235, 235, 0.9);
+    border: 2px solid #0082ca;
+}
+[data-notify="container"].alert-danger {
+    color: #F44336;
+    background-color: rgba(235, 235, 235, 0.9);
+    border: 2px solid #F44336;
+}
+[data-notify="container"].alert-warning {
+    color: #FF9E18;
+    background-color: rgba(235, 235, 235, 0.9);
+    border: 2px solid #FF9E18;
+} */
+.dt-flash-bar .dt-progress-bar-success .dt-sc-bar{
+    background-color: #7ba411 !important;
+    /* background-color: #eafac0 !important; */
+}
+.dt-flash-bar .dt-progress-bar-warning .dt-sc-bar{
+    background: #d01313 !important;
+    /* background: #d01313 !important; */
+}
+.dt-flash-bar .dt-progress-bar-error .dt-sc-bar{
+    background: #c79d13 !important;
+    /* background: #fdebae !important; */
+}
+.dt-flash-bar .dt-progress-bar-info .dt-sc-bar{
+    background: #2081b9 !important;
+    /* background: #bfe4f9 !important; */
+}
+.dt-flash-bar .dt-sc-progress {
+    margin-bottom: 0px !important;
+}
+
+.dt-flash-bar .dt-sc-error-box,
+.dt-flash-bar .dt-sc-warning-box,
+.dt-flash-bar .dt-sc-success-box,
+.dt-flash-bar .dt-sc-info-box {
+    padding-bottom: 0px;
+}
+
+.login-register-form {
+    float: left;
+    width: 100%;
+}
+@media screen and (max-width: 800px){
+    .login-register-form {
+        float: left;
+        width: 100%;
+    }
+    .login-register-form .submit input {
+        width: 100%;
+    }
+
+}
+
+.mb-1 {margin-bottom: 1rem !important;}
+.mb-2 {margin-bottom: 2rem !important;}
+.mb-3 {margin-bottom: 3rem !important;}
+.mb-4 {margin-bottom: 4rem !important;}
+.mb-5 {margin-bottom: 5rem !important;}
+
